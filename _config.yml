@@ -1,6 +1,6 @@
 title: MIDI
-url: "https://martlaa.github.io"
-baseurl: "/midi"
+url: "https://midi.opetaja.ee"
+baseurl: ""
 timezone: Europe/Tallinn
 encoding: utf-8
 markdown: kramdown
