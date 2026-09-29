@@ -1,0 +1,171 @@
+{
+  "source": "U2; U0; S3:3; S8:3",
+  "groups": [
+    {
+      "id": "staff",
+      "title": {
+        "et": "MIDI uurimisrühm",
+        "en": "MIDI research group"
+      },
+      "kicker": {
+        "et": "Digitehnoloogiate instituut",
+        "en": "School of Digital Technologies"
+      },
+      "description": {
+        "et": "Tallinna Ülikooli DTI töötajad. Uurimisrühma juhib Mart Laanpere.",
+        "en": "Staff at Tallinn University’s School of Digital Technologies. The group is led by Mart Laanpere."
+      },
+      "role": {
+        "et": "DTI töötaja",
+        "en": "School of Digital Technologies staff"
+      },
+      "members": [
+        {
+          "name": "Mart Laanpere"
+        },
+        {
+          "name": "Inga Petuhhov"
+        },
+        {
+          "name": "Andrus Rinde"
+        },
+        {
+          "name": "Tanel Toova"
+        },
+        {
+          "name": "Jüri Kurvits"
+        },
+        {
+          "name": "Anna Šeletski"
+        }
+      ]
+    },
+    {
+      "id": "minimidi",
+      "title": {
+        "et": "Doktorandid · miniMIDI",
+        "en": "Doctoral researchers · miniMIDI"
+      },
+      "kicker": {
+        "et": "Teaduslik järelkasv",
+        "en": "Doctoral community"
+      },
+      "description": {
+        "et": "miniMIDI on MIDI doktorantide seminar. Siin on DTI „Infoühiskonna tehnoloogiate” õppekava matemaatika ja informaatika suuna doktorandid. Uurimisteemade kirjeldused pärinevad 2025. aasta oktoobri seminarist.",
+        "en": "miniMIDI is MIDI’s doctoral seminar. The researchers listed here study in the mathematics and informatics area of the Information Society Technologies doctoral programme. Topic descriptions come from the October 2025 seminar."
+      },
+      "role": {
+        "et": "DTI doktorant",
+        "en": "Doctoral researcher, School of Digital Technologies"
+      },
+      "members": [
+        {
+          "name": "Annika Volt",
+          "topic": {
+            "et": "Paindlikud õpirajad koolimatemaatikas",
+            "en": "Flexible learning paths in school mathematics"
+          }
+        },
+        {
+          "name": "Kristin Parve",
+          "topic": {
+            "et": "Raalmõtlemine koolimatemaatikas",
+            "en": "Computational thinking in school mathematics"
+          }
+        },
+        {
+          "name": "Kairi Osula",
+          "topic": {
+            "et": "Andmeteadus kooliinformaatikas",
+            "en": "Data science in school informatics"
+          }
+        },
+        {
+          "name": "Maia Lust",
+          "topic": {
+            "et": "Digiloovtöö kooliinformaatikas",
+            "en": "Digital creative projects in school informatics"
+          }
+        },
+        {
+          "name": "Mikk Oad",
+          "topic": {
+            "et": "Tehisintellekt kooliinformaatikas",
+            "en": "AI in school informatics"
+          }
+        },
+        {
+          "name": "Martti Raavel",
+          "topic": {
+            "et": "GitHub teadmusloome platvormina õppetöös",
+            "en": "GitHub as a platform for knowledge creation in education"
+          }
+        },
+        {
+          "name": "Kerli Kosk",
+          "topic": {
+            "et": "Matemaatikaõpetaja heaolu",
+            "en": "Mathematics teacher wellbeing"
+          }
+        },
+        {
+          "name": "Reelika Väli"
+        },
+        {
+          "name": "Madis Loorents"
+        }
+      ]
+    },
+    {
+      "id": "associated",
+      "title": {
+        "et": "Koostöö teiste instituutidega",
+        "en": "Across schools"
+      },
+      "kicker": {
+        "et": "Haridusteaduste instituut",
+        "en": "School of Educational Sciences"
+      },
+      "description": {
+        "et": "MIDI ühendab ka teiste instituutide doktorante.",
+        "en": "MIDI also connects doctoral researchers from other schools."
+      },
+      "role": {
+        "et": "HTI doktorant",
+        "en": "Doctoral researcher, School of Educational Sciences"
+      },
+      "members": [
+        {
+          "name": "Kelly Paabut"
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "title": {
+        "et": "Külalislektorid",
+        "en": "Visiting lecturers"
+      },
+      "kicker": {
+        "et": "Digitehnoloogiate instituut",
+        "en": "School of Digital Technologies"
+      },
+      "description": {
+        "et": "DTI külalislektorid MIDI kogukonnas.",
+        "en": "Visiting lecturers at the School of Digital Technologies in the MIDI community."
+      },
+      "role": {
+        "et": "DTI külalislektor",
+        "en": "Visiting lecturer, School of Digital Technologies"
+      },
+      "members": [
+        {
+          "name": "Kristi Kivi"
+        },
+        {
+          "name": "Kaidy Õismets"
+        }
+      ]
+    }
+  ]
+}

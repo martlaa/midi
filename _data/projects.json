@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lahemate",
+    "name": "LAHEMATE",
+    "status": {
+      "et": "Rakendusuuring / 2025–2027",
+      "en": "Applied research / 2025–2027"
+    },
+    "summary": {
+      "et": "Uudse matemaatika didaktika arendamine ja katsetamine koolides koostöös Tallinna ja Tartu ülikooli matemaatika didaktikutega.",
+      "en": "Developing and testing new approaches to mathematics teaching in schools, with mathematics educators at Tallinn University and the University of Tartu."
+    },
+    "detail": {
+      "et": "Uuring käivitus 2025. aasta märtsis Õpetajate Akadeemia HARTA-LTM2 rahastusega; kavandatud lõpp on 2027. aasta augustis. 2026. aastal valmis põhiuuringu andmekogumisplatvormi prototüüp ning saadi ETAG eetikakomitee luba. 29.–30. juunil korraldati Tartus õpetajate suvekool; eelpiloodi kohta esitati käsikiri CERME 2027 konverentsile.",
+      "en": "The study started in March 2025 with funding from the Teachers’ Academy HARTA-LTM2 programme; its planned end is August 2027. In 2026, a prototype data collection platform for the main study was completed and approval was obtained from the Estonian Research Council ethics committee. A teacher summer school took place in Tartu on 29–30 June; a manuscript about the pre-pilot was submitted to CERME 2027."
+    },
+    "url": "https://sites.google.com/view/lahemate/",
+    "link_label": {
+      "et": "LAHEMATE veebileht",
+      "en": "LAHEMATE website"
+    },
+    "source": "S6:3; S9:4; U1"
+  },
+  {
+    "id": "ctandme",
+    "name": "CTandME",
+    "status": {
+      "et": "Nordplus / jätkurahastus kinnitatud 2026",
+      "en": "Nordplus / continuation funding confirmed in 2026"
+    },
+    "summary": {
+      "et": "Computational Thinking in Mathematics Teacher Education: raalmõtlemine matemaatikaõpetajate ettevalmistuses.",
+      "en": "Computational Thinking in Mathematics Teacher Education."
+    },
+    "detail": {
+      "et": "Koostöös NTNU, Vilniuse ja Uppsala ülikoolide teaduritega esitati CERME 2027 konverentsile käsikiri. Jätkurahastuse otsus oli positiivne; Tallinna Ülikool võtab projekti koordineerimise üle 2026. aasta oktoobris.",
+      "en": "A manuscript was submitted to CERME 2027 in collaboration with researchers at NTNU, Vilnius University and Uppsala University. Continuation funding was approved; Tallinn University is to take over project coordination in October 2026."
+    },
+    "source": "U1"
+  },
+  {
+    "id": "meteor",
+    "name": "METEOR",
+    "status": {
+      "et": "Erasmus+ / rahastusotsus 2026",
+      "en": "Erasmus+ / funding decision in 2026"
+    },
+    "summary": {
+      "et": "MathCityMapsi jätkuprojekt, milles Tallinna Ülikool osaleb partnerina.",
+      "en": "A follow-up to MathCityMaps, with Tallinn University participating as a partner."
+    },
+    "detail": {
+      "et": "2026. aastal saadi positiivne rahastusotsus. Projekti juhib Frankfurdi ülikool.",
+      "en": "A positive funding decision was received in 2026. The project is coordinated by Frankfurt University."
+    },
+    "source": "U1"
+  },
+  {
+    "id": "informatics-2025",
+    "name": {
+      "et": "Kooliinformaatika 2025",
+      "en": "School informatics 2025"
+    },
+    "status": {
+      "et": "Uuring / 2025. aasta ülevaade",
+      "en": "Study / reported in 2025"
+    },
+    "summary": {
+      "et": "Koolijuhtide hoiakud informaatika õppeaine tunniplaani toomisel uue ainekava alusel, sealhulgas digiloovtöö.",
+      "en": "School leaders’ attitudes towards introducing informatics into the timetable under the new curriculum, including digital creative projects."
+    },
+    "detail": {
+      "et": "Uuringut tutvustati MIDI 28. märtsi 2025 koosolekul. Esitluses viidatakse ka varasematele, 2018. ja 2022. aasta uuringutele.",
+      "en": "The study was presented at the MIDI meeting on 28 March 2025. The presentation also refers to earlier studies in 2018 and 2022."
+    },
+    "source": "S6:3,5"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MIDI",
+    "label": {
+      "et": "Uurimisrühm",
+      "en": "Research group"
+    },
+    "text": {
+      "et": "Matemaatika ja informaatika didaktika teadus- ja arendustöö.",
+      "en": "Research and development in mathematics and informatics education."
+    },
+    "path": "about/"
+  },
+  {
+    "name": "miniMIDI",
+    "label": {
+      "et": "Doktorantide seminar",
+      "en": "Doctoral seminar"
+    },
+    "text": {
+      "et": "Doktorantide uurimistöö ja teadusliku järelkasvu toetamine.",
+      "en": "Supporting doctoral research and the next generation of researchers."
+    },
+    "path": "people/#minimidi"
+  },
+  {
+    "name": "MIDIx",
+    "label": {
+      "et": "Õpetajate-uurijate võrgustik",
+      "en": "Teacher-researcher network"
+    },
+    "text": {
+      "et": "Õpetajad ja teadlased kavandavad ning uurivad õpetamispraktikat koos.",
+      "en": "Teachers and researchers jointly design and investigate teaching practice."
+    },
+    "path": "midix/"
+  }
+]

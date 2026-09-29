@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "research",
+    "et": "Teadustöö",
+    "en": "Research"
+  },
+  {
+    "slug": "projects",
+    "et": "Projektid",
+    "en": "Projects"
+  },
+  {
+    "slug": "people",
+    "et": "Inimesed",
+    "en": "People"
+  },
+  {
+    "slug": "midix",
+    "et": "MIDIx",
+    "en": "MIDIx"
+  },
+  {
+    "slug": "activities",
+    "et": "Tegevused",
+    "en": "Activities"
+  },
+  {
+    "slug": "resources",
+    "et": "Publikatsioonid ja materjalid",
+    "en": "Publications & Resources"
+  },
+  {
+    "slug": "about",
+    "et": "Meist",
+    "en": "About"
+  }
+]

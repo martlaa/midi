@@ -1,0 +1,27 @@
+[
+  {
+    "id": "conference",
+    "et": "Konverentsid",
+    "en": "Conferences"
+  },
+  {
+    "id": "teachers",
+    "et": "Õpetajate koostöö",
+    "en": "Teacher collaboration"
+  },
+  {
+    "id": "research",
+    "et": "Uuringud ja projektid",
+    "en": "Research & projects"
+  },
+  {
+    "id": "international",
+    "et": "Rahvusvaheline koostöö",
+    "en": "International collaboration"
+  },
+  {
+    "id": "seminar",
+    "et": "Seminarid",
+    "en": "Seminars"
+  }
+]

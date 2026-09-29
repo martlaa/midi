@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mathematics",
+    "title": {
+      "et": "Matemaatika õppimine ja õpetamine",
+      "en": "Mathematics education"
+    },
+    "summary": {
+      "et": "Probleemilahendus, mõtlemist toetav õpikeskkond ja matemaatika didaktika.",
+      "en": "Problem solving, learning environments that support thinking, and mathematics didactics."
+    },
+    "body": {
+      "et": "LAHEMATE uurib uudse matemaatika didaktika arendamist ja katsetamist koolides. MIDIx seminarides on käsitletud Thinking Classroom’i lähenemist ning selle kohandamist Eesti oludele.",
+      "en": "LAHEMATE develops and trials new approaches to mathematics teaching in schools. MIDIx seminars have explored the Thinking Classroom approach and its adaptation to the Estonian context."
+    },
+    "source": "S6:3; S1:5"
+  },
+  {
+    "id": "informatics",
+    "title": {
+      "et": "Kooliinformaatika",
+      "en": "Informatics education"
+    },
+    "summary": {
+      "et": "Digiloovtöö, kooliinformaatika ainekava ning informaatikaõpetajate ettevalmistus.",
+      "en": "Digital creative projects, the school informatics curriculum and informatics teacher education."
+    },
+    "body": {
+      "et": "2025. aasta kooliinformaatika uuringu fookuses olid koolijuhtide hoiakud informaatika õppeaine tunniplaani toomisel. Doktorantide teemade hulka kuuluvad digiloovtöö ning GitHub teadmusloome platvormina õppetöös.",
+      "en": "The 2025 school informatics study focused on school leaders’ attitudes towards introducing informatics into the timetable. Doctoral topics include digital creative projects and GitHub as a platform for knowledge creation in education."
+    },
+    "source": "S6:5; S8:3"
+  },
+  {
+    "id": "ai-data",
+    "title": {
+      "et": "Raalmõtlemine, tehisintellekt ja andmed",
+      "en": "Computational thinking, AI and data"
+    },
+    "summary": {
+      "et": "Raalmõtlemine matemaatikas ning tehisintellekti ja andmeteaduse toomine kooliinformaatikasse.",
+      "en": "Computational thinking in mathematics, and AI and data science in school informatics."
+    },
+    "body": {
+      "et": "CTandME keskendub raalmõtlemisele matemaatikaõpetajate ettevalmistuses. Doktorantide uurimisteemad hõlmavad raalmõtlemist koolimatemaatikas, andmeteadust ning tehisintellekti kooliinformaatikas.",
+      "en": "CTandME focuses on computational thinking in mathematics teacher education. Doctoral research explores computational thinking in school mathematics, data science and AI in school informatics."
+    },
+    "source": "U1; S8:3"
+  },
+  {
+    "id": "learning-paths",
+    "title": {
+      "et": "Paindlikud õpirajad ja õpianalüütika",
+      "en": "Flexible learning paths and learning analytics"
+    },
+    "summary": {
+      "et": "Ülesannete keerukus, õppija kogetud raskus ja õppimist toetav õppedisain.",
+      "en": "Task complexity, learners’ perceived difficulty and learning design."
+    },
+    "body": {
+      "et": "MIDIx seminarimaterjalides eristatakse ülesande keerukust õppija kogetud raskusest. Käsitletakse kasvava keerukusega ülesandeid, taanduvat toestamist ning õpetajatega koos loodava ülesannete keerukuse hindamise raamistiku ideed.",
+      "en": "MIDIx seminar materials distinguish task complexity from the difficulty experienced by a learner. They explore progressively more complex tasks, fading scaffolding and the idea of developing a task-complexity framework with teachers."
+    },
+    "source": "S2:2–4,11–12"
+  },
+  {
+    "id": "teachers",
+    "title": {
+      "et": "Õpetajate õppimine ja professionaalne areng",
+      "en": "Teacher learning and professional development"
+    },
+    "summary": {
+      "et": "Õpetaja kui uurija, professionaalne areng ja matemaatikaõpetaja heaolu.",
+      "en": "Teachers as researchers, professional development and mathematics teacher wellbeing."
+    },
+    "body": {
+      "et": "MIDIx seob õpetajate uurimisküsimused ühise uuringudisainiga. Rühma teemade hulka kuuluvad matemaatikaõpetajate heaolu ja professionaalne areng ning teaduspõhine õpetajakoolitus.",
+      "en": "MIDIx connects teachers’ research questions with a shared study design. The group’s topics include mathematics teacher wellbeing, professional development and research-informed teacher education."
+    },
+    "source": "S9:2–4; S8:3–4"
+  }
+]

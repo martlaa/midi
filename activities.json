@@ -1,0 +1,306 @@
+[
+  {
+    "id": "norma",
+    "category": "conference",
+    "date": {
+      "et": "8.–11. juuni 2027 · tulekul",
+      "en": "8–11 June 2027 · upcoming"
+    },
+    "title": {
+      "et": "NORMA 2027 Tallinnas",
+      "en": "NORMA 2027 in Tallinn"
+    },
+    "body": {
+      "et": "MIDI korraldab Tallinna Ülikoolis Põhjamaade matemaatikahariduse konverentsi. Ettevalmistused jõudsid 2026. aastal aktiivsesse faasi.",
+      "en": "MIDI will organise the Nordic Mathematics Education Conference at Tallinn University. Preparations entered an active phase in 2026."
+    },
+    "source": "U1",
+    "url": "https://norma2027.tlu.ee/",
+    "featured": false
+  },
+  {
+    "id": "ctandme-coordination",
+    "category": "research",
+    "date": {
+      "et": "Oktoober 2026 · kavandatud",
+      "en": "October 2026 · planned"
+    },
+    "title": {
+      "et": "CTandME koordineerimine TLÜsse",
+      "en": "CTandME coordination to move to Tallinn University"
+    },
+    "body": {
+      "et": "Pärast positiivset jätkurahastuse otsust võtab Tallinna Ülikool oktoobris üle Nordplus projekti CTandME koordineerimise.",
+      "en": "Following the positive continuation funding decision, Tallinn University is to take over coordination of the Nordplus CTandME project in October."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "issep",
+    "category": "conference",
+    "date": {
+      "et": "20.–23. september 2026",
+      "en": "20–23 September 2026"
+    },
+    "title": {
+      "et": "ISSEP 2026",
+      "en": "ISSEP 2026"
+    },
+    "body": {
+      "et": "Korraldasime Tallinna Ülikoolis kooliinformaatika teaduskonverentsi ISSEP.",
+      "en": "We organised the ISSEP research conference on informatics in schools at Tallinn University."
+    },
+    "source": "U1",
+    "url": "https://issep2026.tlu.ee/",
+    "featured": true
+  },
+  {
+    "id": "meda",
+    "category": "conference",
+    "date": {
+      "et": "14.–18. september 2026",
+      "en": "14–18 September 2026"
+    },
+    "title": {
+      "et": "ERME MEDA Linzis",
+      "en": "ERME MEDA in Linz"
+    },
+    "body": {
+      "et": "Kerli Kosk ja Mart Laanpere osalesid ettekandega ERME MEDA konverentsil Linzis.",
+      "en": "Kerli Kosk and Mart Laanpere presented at the ERME MEDA conference in Linz."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "it-summer-school",
+    "category": "teachers",
+    "date": {
+      "et": "17.–18. august 2026",
+      "en": "17–18 August 2026"
+    },
+    "title": {
+      "et": "IT-õpetajate suvekool",
+      "en": "IT teacher summer school"
+    },
+    "body": {
+      "et": "Korraldasime koostöös TalTechiga IT-õpetajate suvekooli, kus osales 120 inimest.",
+      "en": "We organised an IT teacher summer school with TalTech, bringing together 120 participants."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "pme",
+    "category": "conference",
+    "date": {
+      "et": "Juuli lõpp 2026",
+      "en": "Late July 2026"
+    },
+    "title": {
+      "et": "PME Helsingis",
+      "en": "PME in Helsinki"
+    },
+    "body": {
+      "et": "Jüri Kurvits, Kaja Mädamürk ja doktorant Kerli Kosk osalesid ettekannetega PME konverentsil Helsingis.",
+      "en": "Jüri Kurvits, Kaja Mädamürk and doctoral researcher Kerli Kosk presented at the PME conference in Helsinki."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "lahemate-school",
+    "category": "teachers",
+    "date": {
+      "et": "29.–30. juuni 2026",
+      "en": "29–30 June 2026"
+    },
+    "title": {
+      "et": "LAHEMATE suvekool Tartus",
+      "en": "LAHEMATE summer school in Tartu"
+    },
+    "body": {
+      "et": "Koostöös Tartu Ülikooli matemaatikahariduse keskusega korraldasime probleemülesannete õpetamise suvekooli 50 matemaatikaõpetajale.",
+      "en": "With the University of Tartu’s mathematics education centre, we organised a summer school on teaching problem solving for 50 mathematics teachers."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": true
+  },
+  {
+    "id": "infedu",
+    "category": "international",
+    "date": {
+      "et": "Juuni 2026",
+      "en": "June 2026"
+    },
+    "title": {
+      "et": "Informatics in Education",
+      "en": "Informatics in Education"
+    },
+    "body": {
+      "et": "Tallinna Ülikool ja Vilniuse Ülikool võtsid ühiselt hallata avatud juurdepääsuga kooliinformaatika teadusajakirja Informatics in Education.",
+      "en": "Tallinn University and Vilnius University assumed joint management of Informatics in Education, an open-access research journal on informatics education."
+    },
+    "source": "U1",
+    "url": "https://infedu.vu.lt/journal/INFEDU",
+    "featured": true
+  },
+  {
+    "id": "doctoral-defences",
+    "category": "international",
+    "date": {
+      "et": "Juuni 2026",
+      "en": "June 2026"
+    },
+    "title": {
+      "et": "Doktoritööde oponeerimine",
+      "en": "Doctoral thesis examinations"
+    },
+    "body": {
+      "et": "Mart Laanpere osales oponendina kahe doktoritöö kaitsmisel: Tartu Ülikoolis ja Vilniuse Ülikoolis.",
+      "en": "Mart Laanpere served as an opponent at two doctoral thesis defences, at the University of Tartu and Vilnius University."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "finland",
+    "category": "international",
+    "date": {
+      "et": "Märts 2026",
+      "en": "March 2026"
+    },
+    "title": {
+      "et": "Tampere ja Helsingi külastused",
+      "en": "Visits to Tampere and Helsinki"
+    },
+    "body": {
+      "et": "MIDI külastas Tampere Ülikooli ja Helsingi Ülikooli matemaatika osakondi.",
+      "en": "MIDI visited the mathematics departments at Tampere University and the University of Helsinki."
+    },
+    "source": "U2",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "cerme-submissions",
+    "category": "research",
+    "date": {
+      "et": "Juuni–september 2026",
+      "en": "June–September 2026"
+    },
+    "title": {
+      "et": "Kaks käsikirja CERME 2027 konverentsile",
+      "en": "Two manuscripts submitted to CERME 2027"
+    },
+    "body": {
+      "et": "Esitasime käsikirjad LAHEMATE eelpiloodi ning CTandME projekti kohta. CTandME käsikiri valmis koostöös NTNU, Vilniuse ja Uppsala ülikoolide teaduritega. Tegu on esitatud käsikirjadega, mitte kinnitatud publikatsioonidega.",
+      "en": "We submitted manuscripts on the LAHEMATE pre-pilot and the CTandME project. The CTandME manuscript was prepared with researchers at NTNU, Vilnius University and Uppsala University. These are submitted manuscripts, not confirmed publications."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "meteor-funding",
+    "category": "research",
+    "date": {
+      "et": "Juuni–september 2026",
+      "en": "June–September 2026"
+    },
+    "title": {
+      "et": "METEORi positiivne rahastusotsus",
+      "en": "Positive funding decision for METEOR"
+    },
+    "body": {
+      "et": "Erasmus+ projekt METEOR sai positiivse rahastusotsuse. MathCityMapsi jätkuprojekti juhib Frankfurdi ülikool ja Tallinna Ülikool on partner.",
+      "en": "The Erasmus+ project METEOR received a positive funding decision. This follow-up to MathCityMaps is led by Frankfurt University, with Tallinn University as a partner."
+    },
+    "source": "U1",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "lahemate-platform",
+    "category": "research",
+    "date": {
+      "et": "Juuni–september 2026",
+      "en": "June–September 2026"
+    },
+    "title": {
+      "et": "LAHEMATE põhiuuringu ettevalmistus",
+      "en": "Preparing the LAHEMATE main study"
+    },
+    "body": {
+      "et": "Valmis andmekogumisplatvormi prototüüp ja saadi ETAG eetikakomitee luba.",
+      "en": "A prototype data collection platform was completed and approval was obtained from the Estonian Research Council ethics committee."
+    },
+    "source": "U1",
+    "url": "https://uuring.lahemate.ee/",
+    "featured": false
+  },
+  {
+    "id": "trila",
+    "category": "international",
+    "date": {
+      "et": "2026",
+      "en": "2026"
+    },
+    "title": {
+      "et": "Ühisseminarid TRILAga",
+      "en": "Joint seminars with TRILA"
+    },
+    "body": {
+      "et": "MIDI pidas ühiseid seminare Turu Ülikooli TRILA uurimisinstituudiga.",
+      "en": "MIDI held joint seminars with the University of Turku’s TRILA research institute."
+    },
+    "source": "U2",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "tsinakos",
+    "category": "seminar",
+    "date": {
+      "et": "2026",
+      "en": "2026"
+    },
+    "title": {
+      "et": "Avgoustos Tsinakose külalisloengud",
+      "en": "Guest lectures by Avgoustos Tsinakos"
+    },
+    "body": {
+      "et": "MIDI aasta tegevuste hulka kuulusid professor Avgoustos Tsinakose külalisloengud.",
+      "en": "The year’s activities included guest lectures by Professor Avgoustos Tsinakos."
+    },
+    "source": "U2",
+    "url": null,
+    "featured": false
+  },
+  {
+    "id": "quo-vadis",
+    "category": "seminar",
+    "date": {
+      "et": "2026",
+      "en": "2026"
+    },
+    "title": {
+      "et": "Quo vadis, kitsas matemaatika",
+      "en": "Quo vadis, kitsas matemaatika"
+    },
+    "body": {
+      "et": "MIDI korraldas seminari „Quo vadis, kitsas matemaatika”.",
+      "en": "MIDI organised “Quo vadis, kitsas matemaatika”, a seminar on the future of the narrow mathematics curriculum."
+    },
+    "source": "U2",
+    "url": null,
+    "featured": false
+  }
+]
